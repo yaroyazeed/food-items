@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364981326185",
+    "firebase_url": "https://food-application-5332e-default-rtdb.firebaseio.com",
+    "project_id": "food-application-5332e",
+    "storage_bucket": "food-application-5332e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364981326185:android:2072a1467215c596f3adf8",
+        "android_client_info": {
+          "package_name": "com.yaroyazeed.foodapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364981326185-f05kg8h7ph4gnfmnoclafu9q1d096d0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIgBw1povPPBYKp2Y9o0HK9XfLN7cKBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364981326185-f05kg8h7ph4gnfmnoclafu9q1d096d0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

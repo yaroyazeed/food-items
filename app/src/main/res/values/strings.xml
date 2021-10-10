@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Application</string>
+    <string name="organic">Organic</string>
+    <string name="inorganic">Inorganic</string>
+    <string name="description">Description</string>
+    <string name="done">Done</string>
+    <string name="country">Country: %1$s </string>
+    <string name="nutrients">Nutrients: %1$s</string>
+    <string name="is">Is organic</string>
+    <string name="is_not">Is inorganic</string>
+    <string name="dollar">$%1$s</string>
+    <string name="quantity">Quantity: %1$s</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="quantity2">Quantity</string>
+
+</resources>
